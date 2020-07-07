@@ -11,7 +11,7 @@ const Villes =(props)=>{
         <div>
             <center>
                 <h2>
-                Ville
+                Villes
                 </h2>
             </center>
             
